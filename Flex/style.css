@@ -1,0 +1,100 @@
+*{
+box-sizing: border-box;
+margin: 0;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+}
+.box{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+   background-color: rgb(206, 50, 109);
+   text-align: center;
+   box-shadow: 50px 50px 50px;
+   border: 10px solid rgb(190, 86, 143);
+   color: azure;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   border-radius: 20px;
+}
+.b{
+    border: 10px solid rgb(236, 241, 241);
+width: 99%;
+height: 99%;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.b1{
+    border: 10px solid rgb(236, 241, 241);
+width: 99%;
+height: 99%;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+.b2{
+    border: 10px solid rgb(236, 241, 241);
+width: 99%;
+height: 99%;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+.b3{
+    border: 10px solid rgb(236, 241, 241);
+width: 99%;
+height: 99%;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+.b4{
+    border: 10px solid rgb(236, 241, 241);
+width: 99%;
+height: 99%;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+.b5{
+    border: 10px solid rgb(236, 241, 241);
+width: 99%;
+height: 99%;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+.b6{
+    border: 10px solid rgb(236, 241, 241);
+width: 99%;
+height: 99%;
+display: flex;
+align-items: center;
+justify-content: center;
+display: flex;
+align-items: center;
+justify-content: center;
+
+
+}
+.b7{
+    border: 10px solid rgb(236, 241, 241);
+width: 99%;
+height: 99%;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
